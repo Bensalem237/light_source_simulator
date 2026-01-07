@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\LightSimulator.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\LightSimulator.dir/objects.a @CMakeFiles\LightSimulator.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\LightSimulator.dir/objects.a -Wl,--no-whole-archive -o LightSimulator.exe -Wl,--out-implib,libLightSimulator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LightSimulator.dir\linkLibs.rsp
