@@ -23,8 +23,20 @@ class Application {
         SDL_Renderer* renderer = nullptr; // 🖌️ Renderer
         bool isRunning = false;
 
+        // Variables to hold the color of the light source
+        float lightR = 1.0f;
+        float lightG = 1.0f;
+        float lightB = 1.0f;
+
+        // Size of the light
+        float haloSize = 800.0f;
+
+        // Mouse position
+        float mouseX = 0.0f;
+        float mouseY = 0.0f;
+
         // Textures
         SDL_Texture* textureBackground = nullptr;
-        SDL_Texture* textureBulb = nullptr;
+        // SDL_Texture* textureBulb = nullptr;
         SDL_Texture* textureHalo = nullptr;
 };

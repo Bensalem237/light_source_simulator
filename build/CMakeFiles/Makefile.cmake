@@ -40,7 +40,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-windres.cmake"
   "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows.cmake"
   "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/WindowsPaths.cmake"
-  "C:/Users/Ben Salem/Desktop/Light Source Simulator/CMakeLists.txt"
+  "C:/Users/Ben Salem/Desktop/light_source_simulator/CMakeLists.txt"
   "CMakeFiles/4.2.1/CMakeCCompiler.cmake"
   "CMakeFiles/4.2.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.2.1/CMakeRCCompiler.cmake"

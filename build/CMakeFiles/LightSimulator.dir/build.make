@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Ben Salem\Desktop\Light Source Simulator"
+CMAKE_SOURCE_DIR = "C:\Users\Ben Salem\Desktop\light_source_simulator"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Ben Salem\Desktop\Light Source Simulator\build"
+CMAKE_BINARY_DIR = "C:\Users\Ben Salem\Desktop\light_source_simulator\build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LightSimulator.dir/depend.make
@@ -73,138 +73,138 @@ CMakeFiles/LightSimulator.dir/codegen:
 
 CMakeFiles/LightSimulator.dir/src/Application.cpp.obj: CMakeFiles/LightSimulator.dir/flags.make
 CMakeFiles/LightSimulator.dir/src/Application.cpp.obj: CMakeFiles/LightSimulator.dir/includes_CXX.rsp
-CMakeFiles/LightSimulator.dir/src/Application.cpp.obj: C:/Users/Ben\ Salem/Desktop/Light\ Source\ Simulator/src/Application.cpp
+CMakeFiles/LightSimulator.dir/src/Application.cpp.obj: C:/Users/Ben\ Salem/Desktop/light_source_simulator/src/Application.cpp
 CMakeFiles/LightSimulator.dir/src/Application.cpp.obj: CMakeFiles/LightSimulator.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\Light Source Simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LightSimulator.dir/src/Application.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/src/Application.cpp.obj -MF CMakeFiles\LightSimulator.dir\src\Application.cpp.obj.d -o CMakeFiles\LightSimulator.dir\src\Application.cpp.obj -c "C:\Users\Ben Salem\Desktop\Light Source Simulator\src\Application.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\light_source_simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LightSimulator.dir/src/Application.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/src/Application.cpp.obj -MF CMakeFiles\LightSimulator.dir\src\Application.cpp.obj.d -o CMakeFiles\LightSimulator.dir\src\Application.cpp.obj -c "C:\Users\Ben Salem\Desktop\light_source_simulator\src\Application.cpp"
 
 CMakeFiles/LightSimulator.dir/src/Application.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LightSimulator.dir/src/Application.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\Light Source Simulator\src\Application.cpp" > CMakeFiles\LightSimulator.dir\src\Application.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\light_source_simulator\src\Application.cpp" > CMakeFiles\LightSimulator.dir\src\Application.cpp.i
 
 CMakeFiles/LightSimulator.dir/src/Application.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightSimulator.dir/src/Application.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\Light Source Simulator\src\Application.cpp" -o CMakeFiles\LightSimulator.dir\src\Application.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\light_source_simulator\src\Application.cpp" -o CMakeFiles\LightSimulator.dir\src\Application.cpp.s
 
 CMakeFiles/LightSimulator.dir/src/LightSource.cpp.obj: CMakeFiles/LightSimulator.dir/flags.make
 CMakeFiles/LightSimulator.dir/src/LightSource.cpp.obj: CMakeFiles/LightSimulator.dir/includes_CXX.rsp
-CMakeFiles/LightSimulator.dir/src/LightSource.cpp.obj: C:/Users/Ben\ Salem/Desktop/Light\ Source\ Simulator/src/LightSource.cpp
+CMakeFiles/LightSimulator.dir/src/LightSource.cpp.obj: C:/Users/Ben\ Salem/Desktop/light_source_simulator/src/LightSource.cpp
 CMakeFiles/LightSimulator.dir/src/LightSource.cpp.obj: CMakeFiles/LightSimulator.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\Light Source Simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LightSimulator.dir/src/LightSource.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/src/LightSource.cpp.obj -MF CMakeFiles\LightSimulator.dir\src\LightSource.cpp.obj.d -o CMakeFiles\LightSimulator.dir\src\LightSource.cpp.obj -c "C:\Users\Ben Salem\Desktop\Light Source Simulator\src\LightSource.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\light_source_simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LightSimulator.dir/src/LightSource.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/src/LightSource.cpp.obj -MF CMakeFiles\LightSimulator.dir\src\LightSource.cpp.obj.d -o CMakeFiles\LightSimulator.dir\src\LightSource.cpp.obj -c "C:\Users\Ben Salem\Desktop\light_source_simulator\src\LightSource.cpp"
 
 CMakeFiles/LightSimulator.dir/src/LightSource.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LightSimulator.dir/src/LightSource.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\Light Source Simulator\src\LightSource.cpp" > CMakeFiles\LightSimulator.dir\src\LightSource.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\light_source_simulator\src\LightSource.cpp" > CMakeFiles\LightSimulator.dir\src\LightSource.cpp.i
 
 CMakeFiles/LightSimulator.dir/src/LightSource.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightSimulator.dir/src/LightSource.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\Light Source Simulator\src\LightSource.cpp" -o CMakeFiles\LightSimulator.dir\src\LightSource.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\light_source_simulator\src\LightSource.cpp" -o CMakeFiles\LightSimulator.dir\src\LightSource.cpp.s
 
 CMakeFiles/LightSimulator.dir/src/main.cpp.obj: CMakeFiles/LightSimulator.dir/flags.make
 CMakeFiles/LightSimulator.dir/src/main.cpp.obj: CMakeFiles/LightSimulator.dir/includes_CXX.rsp
-CMakeFiles/LightSimulator.dir/src/main.cpp.obj: C:/Users/Ben\ Salem/Desktop/Light\ Source\ Simulator/src/main.cpp
+CMakeFiles/LightSimulator.dir/src/main.cpp.obj: C:/Users/Ben\ Salem/Desktop/light_source_simulator/src/main.cpp
 CMakeFiles/LightSimulator.dir/src/main.cpp.obj: CMakeFiles/LightSimulator.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\Light Source Simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LightSimulator.dir/src/main.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/src/main.cpp.obj -MF CMakeFiles\LightSimulator.dir\src\main.cpp.obj.d -o CMakeFiles\LightSimulator.dir\src\main.cpp.obj -c "C:\Users\Ben Salem\Desktop\Light Source Simulator\src\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\light_source_simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LightSimulator.dir/src/main.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/src/main.cpp.obj -MF CMakeFiles\LightSimulator.dir\src\main.cpp.obj.d -o CMakeFiles\LightSimulator.dir\src\main.cpp.obj -c "C:\Users\Ben Salem\Desktop\light_source_simulator\src\main.cpp"
 
 CMakeFiles/LightSimulator.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LightSimulator.dir/src/main.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\Light Source Simulator\src\main.cpp" > CMakeFiles\LightSimulator.dir\src\main.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\light_source_simulator\src\main.cpp" > CMakeFiles\LightSimulator.dir\src\main.cpp.i
 
 CMakeFiles/LightSimulator.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightSimulator.dir/src/main.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\Light Source Simulator\src\main.cpp" -o CMakeFiles\LightSimulator.dir\src\main.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\light_source_simulator\src\main.cpp" -o CMakeFiles\LightSimulator.dir\src\main.cpp.s
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui.cpp.obj: CMakeFiles/LightSimulator.dir/flags.make
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui.cpp.obj: CMakeFiles/LightSimulator.dir/includes_CXX.rsp
-CMakeFiles/LightSimulator.dir/third_party/imgui/imgui.cpp.obj: C:/Users/Ben\ Salem/Desktop/Light\ Source\ Simulator/third_party/imgui/imgui.cpp
+CMakeFiles/LightSimulator.dir/third_party/imgui/imgui.cpp.obj: C:/Users/Ben\ Salem/Desktop/light_source_simulator/third_party/imgui/imgui.cpp
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui.cpp.obj: CMakeFiles/LightSimulator.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\Light Source Simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LightSimulator.dir/third_party/imgui/imgui.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/third_party/imgui/imgui.cpp.obj -MF CMakeFiles\LightSimulator.dir\third_party\imgui\imgui.cpp.obj.d -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui.cpp.obj -c "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\imgui.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\light_source_simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LightSimulator.dir/third_party/imgui/imgui.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/third_party/imgui/imgui.cpp.obj -MF CMakeFiles\LightSimulator.dir\third_party\imgui\imgui.cpp.obj.d -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui.cpp.obj -c "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\imgui.cpp"
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LightSimulator.dir/third_party/imgui/imgui.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\imgui.cpp" > CMakeFiles\LightSimulator.dir\third_party\imgui\imgui.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\imgui.cpp" > CMakeFiles\LightSimulator.dir\third_party\imgui\imgui.cpp.i
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightSimulator.dir/third_party/imgui/imgui.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\imgui.cpp" -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\imgui.cpp" -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui.cpp.s
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_draw.cpp.obj: CMakeFiles/LightSimulator.dir/flags.make
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_draw.cpp.obj: CMakeFiles/LightSimulator.dir/includes_CXX.rsp
-CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_draw.cpp.obj: C:/Users/Ben\ Salem/Desktop/Light\ Source\ Simulator/third_party/imgui/imgui_draw.cpp
+CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_draw.cpp.obj: C:/Users/Ben\ Salem/Desktop/light_source_simulator/third_party/imgui/imgui_draw.cpp
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_draw.cpp.obj: CMakeFiles/LightSimulator.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\Light Source Simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_draw.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_draw.cpp.obj -MF CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_draw.cpp.obj.d -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_draw.cpp.obj -c "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\imgui_draw.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\light_source_simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_draw.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_draw.cpp.obj -MF CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_draw.cpp.obj.d -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_draw.cpp.obj -c "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\imgui_draw.cpp"
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_draw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_draw.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\imgui_draw.cpp" > CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_draw.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\imgui_draw.cpp" > CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_draw.cpp.i
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_draw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_draw.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\imgui_draw.cpp" -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_draw.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\imgui_draw.cpp" -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_draw.cpp.s
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_tables.cpp.obj: CMakeFiles/LightSimulator.dir/flags.make
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_tables.cpp.obj: CMakeFiles/LightSimulator.dir/includes_CXX.rsp
-CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_tables.cpp.obj: C:/Users/Ben\ Salem/Desktop/Light\ Source\ Simulator/third_party/imgui/imgui_tables.cpp
+CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_tables.cpp.obj: C:/Users/Ben\ Salem/Desktop/light_source_simulator/third_party/imgui/imgui_tables.cpp
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_tables.cpp.obj: CMakeFiles/LightSimulator.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\Light Source Simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_tables.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_tables.cpp.obj -MF CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_tables.cpp.obj.d -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_tables.cpp.obj -c "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\imgui_tables.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\light_source_simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_tables.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_tables.cpp.obj -MF CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_tables.cpp.obj.d -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_tables.cpp.obj -c "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\imgui_tables.cpp"
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_tables.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_tables.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\imgui_tables.cpp" > CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_tables.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\imgui_tables.cpp" > CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_tables.cpp.i
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_tables.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_tables.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\imgui_tables.cpp" -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_tables.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\imgui_tables.cpp" -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_tables.cpp.s
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_widgets.cpp.obj: CMakeFiles/LightSimulator.dir/flags.make
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_widgets.cpp.obj: CMakeFiles/LightSimulator.dir/includes_CXX.rsp
-CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_widgets.cpp.obj: C:/Users/Ben\ Salem/Desktop/Light\ Source\ Simulator/third_party/imgui/imgui_widgets.cpp
+CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_widgets.cpp.obj: C:/Users/Ben\ Salem/Desktop/light_source_simulator/third_party/imgui/imgui_widgets.cpp
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_widgets.cpp.obj: CMakeFiles/LightSimulator.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\Light Source Simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_widgets.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_widgets.cpp.obj -MF CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_widgets.cpp.obj.d -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_widgets.cpp.obj -c "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\imgui_widgets.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\light_source_simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_widgets.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_widgets.cpp.obj -MF CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_widgets.cpp.obj.d -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_widgets.cpp.obj -c "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\imgui_widgets.cpp"
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_widgets.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_widgets.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\imgui_widgets.cpp" > CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_widgets.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\imgui_widgets.cpp" > CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_widgets.cpp.i
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_widgets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightSimulator.dir/third_party/imgui/imgui_widgets.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\imgui_widgets.cpp" -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_widgets.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\imgui_widgets.cpp" -o CMakeFiles\LightSimulator.dir\third_party\imgui\imgui_widgets.cpp.s
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdl3.cpp.obj: CMakeFiles/LightSimulator.dir/flags.make
 CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdl3.cpp.obj: CMakeFiles/LightSimulator.dir/includes_CXX.rsp
-CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdl3.cpp.obj: C:/Users/Ben\ Salem/Desktop/Light\ Source\ Simulator/third_party/imgui/backends/imgui_impl_sdl3.cpp
+CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdl3.cpp.obj: C:/Users/Ben\ Salem/Desktop/light_source_simulator/third_party/imgui/backends/imgui_impl_sdl3.cpp
 CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdl3.cpp.obj: CMakeFiles/LightSimulator.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\Light Source Simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdl3.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdl3.cpp.obj -MF CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdl3.cpp.obj.d -o CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdl3.cpp.obj -c "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\backends\imgui_impl_sdl3.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\light_source_simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdl3.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdl3.cpp.obj -MF CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdl3.cpp.obj.d -o CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdl3.cpp.obj -c "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\backends\imgui_impl_sdl3.cpp"
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdl3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdl3.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\backends\imgui_impl_sdl3.cpp" > CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdl3.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\backends\imgui_impl_sdl3.cpp" > CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdl3.cpp.i
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdl3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdl3.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\backends\imgui_impl_sdl3.cpp" -o CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdl3.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\backends\imgui_impl_sdl3.cpp" -o CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdl3.cpp.s
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp.obj: CMakeFiles/LightSimulator.dir/flags.make
 CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp.obj: CMakeFiles/LightSimulator.dir/includes_CXX.rsp
-CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp.obj: C:/Users/Ben\ Salem/Desktop/Light\ Source\ Simulator/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp
+CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp.obj: C:/Users/Ben\ Salem/Desktop/light_source_simulator/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp
 CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp.obj: CMakeFiles/LightSimulator.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\Light Source Simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp.obj -MF CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp.obj.d -o CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp.obj -c "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Ben Salem\Desktop\light_source_simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp.obj -MF CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp.obj.d -o CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp.obj -c "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp"
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp" > CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp.i
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp" > CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp.i
 
 CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/LightSimulator.dir/third_party/imgui/backends/imgui_impl_sdlrenderer3.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\Light Source Simulator\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp" -o CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp.s
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Ben Salem\Desktop\light_source_simulator\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp" -o CMakeFiles\LightSimulator.dir\third_party\imgui\backends\imgui_impl_sdlrenderer3.cpp.s
 
 # Object files for target LightSimulator
 LightSimulator_OBJECTS = \
@@ -235,7 +235,7 @@ LightSimulator.exe: C:/msys64/ucrt64/lib/libSDL3.dll.a
 LightSimulator.exe: CMakeFiles/LightSimulator.dir/linkLibs.rsp
 LightSimulator.exe: CMakeFiles/LightSimulator.dir/objects1.rsp
 LightSimulator.exe: CMakeFiles/LightSimulator.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\Ben Salem\Desktop\Light Source Simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable LightSimulator.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\Ben Salem\Desktop\light_source_simulator\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable LightSimulator.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LightSimulator.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -247,6 +247,6 @@ CMakeFiles/LightSimulator.dir/clean:
 .PHONY : CMakeFiles/LightSimulator.dir/clean
 
 CMakeFiles/LightSimulator.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Ben Salem\Desktop\Light Source Simulator" "C:\Users\Ben Salem\Desktop\Light Source Simulator" "C:\Users\Ben Salem\Desktop\Light Source Simulator\build" "C:\Users\Ben Salem\Desktop\Light Source Simulator\build" "C:\Users\Ben Salem\Desktop\Light Source Simulator\build\CMakeFiles\LightSimulator.dir\DependInfo.cmake" "--color=$(COLOR)" LightSimulator
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Ben Salem\Desktop\light_source_simulator" "C:\Users\Ben Salem\Desktop\light_source_simulator" "C:\Users\Ben Salem\Desktop\light_source_simulator\build" "C:\Users\Ben Salem\Desktop\light_source_simulator\build" "C:\Users\Ben Salem\Desktop\light_source_simulator\build\CMakeFiles\LightSimulator.dir\DependInfo.cmake" "--color=$(COLOR)" LightSimulator
 .PHONY : CMakeFiles/LightSimulator.dir/depend
 

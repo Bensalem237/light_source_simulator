@@ -39,3 +39,15 @@
 
 # debug information files
 *.dwo
+
+# Ignorer le dossier de compilation
+build/
+bin/
+out/
+
+# Ignorer les fichiers temporaires VS Code
+.vscode/
+
+# Ignorer les fichiers systèmes
+.DS_Store
+Thumbs.db

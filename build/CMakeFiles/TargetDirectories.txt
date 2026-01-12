@@ -1,3 +1,3 @@
-C:/Users/Ben Salem/Desktop/Light Source Simulator/build/CMakeFiles/LightSimulator.dir
-C:/Users/Ben Salem/Desktop/Light Source Simulator/build/CMakeFiles/edit_cache.dir
-C:/Users/Ben Salem/Desktop/Light Source Simulator/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Ben Salem/Desktop/light_source_simulator/build/CMakeFiles/LightSimulator.dir
+C:/Users/Ben Salem/Desktop/light_source_simulator/build/CMakeFiles/edit_cache.dir
+C:/Users/Ben Salem/Desktop/light_source_simulator/build/CMakeFiles/rebuild_cache.dir
